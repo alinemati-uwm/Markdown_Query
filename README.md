@@ -1,11 +1,11 @@
-# Architecture_Software_Design_of_Modern_Large_Scale_Systems_2025
+# All Markdown Querys
 
 
 ## Query 1
 
 [Q 1](./Polynomials%20by%20Degree.md)
 
-[Q 2](./Polynomials%20by%20Degree.)
+[Q 2](./Polynomials%20by%20Degree.png)
 
 
 ## Query 2
